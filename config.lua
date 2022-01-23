@@ -87,7 +87,7 @@ Config.Locations = {
 Config.Vehicles = {
     ["flatbed"] = "Flatbed",
     ["towtruck"] = "Towtruck",
-    ["minivan"] = "Minivan (Rental Car)",
+    ["minivan"] = "Minivan (Leen Auto)",
     ["blista"] = "Blista",
 }
 
